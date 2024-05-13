@@ -1,1 +1,1 @@
-# JS-Advanced
+# JS-Advanced - syntax, function statements
